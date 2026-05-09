@@ -1,0 +1,15 @@
+{
+  "short_name": "FamilyFlow",
+  "name": "FamilyFlow — Gestão Familiar",
+  "description": "Organize tarefas, finanças e compromissos da sua família",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080A12",
+  "theme_color": "#6C63FF",
+  "lang": "pt-BR"
+}
